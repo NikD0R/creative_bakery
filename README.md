@@ -23,18 +23,21 @@ To run the project locally, follow these steps:
 ```bash
 git clone https://github.com/your-username/project-name.git
 cd project-name
+```
 
 2️⃣ Install dependencies
 ```bash
 npm install
 # or
 yarn install
+```
 
 3️⃣ Run the project locally
 ```bash
 npm start
 # or
 yarn start
+```
 
 # ✨ Features
   - Fully responsive layout
