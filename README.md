@@ -5,7 +5,7 @@ Creative Bakery is a responsive landing page website for a bakery, created to sh
 👉 [View Live Demo](https://nikd0r.github.io/creative_bakery/)
 
 # 🎨 Design Reference
-    - [Figma Design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
+    [![Figma Design](https://img.shields.io/badge/Figma-Design-blue?style=for-the-badge)](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
 
 # 🛠 Technologies Used
 The project was built using:
