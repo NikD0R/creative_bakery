@@ -1,4 +1,4 @@
-## 🍪 Creative Bakery
+# 🍪 Creative Bakery
 Creative Bakery is a responsive landing page website for a bakery, created to showcase products, brand, and contact information. The project was implemented using modern frontend technologies and is focused on clean design and ease of use.
 
 # 🔗 Live Preview
@@ -19,20 +19,20 @@ The project was built using:
 # 🚀 Getting Started
 To run the project locally, follow these steps:
 
-1️⃣ Clone the repository
+## 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/project-name.git
 cd project-name
 ```
 
-2️⃣ Install dependencies
+## 2️⃣ Install dependencies
 ```bash
 npm install
 # or
 yarn install
 ```
 
-3️⃣ Run the project locally
+## 3️⃣ Run the project locally
 ```bash
 npm start
 # or
