@@ -1,13 +1,14 @@
 # 🍪 Creative Bakery
 Creative Bakery is a responsive landing page website for a bakery, created to showcase products, brand, and contact information. The project was implemented using modern frontend technologies and is focused on clean design and ease of use.
 
-----------------------------
 
 ## 🔗 Live Preview
 👉 [View Live Demo](https://nikd0r.github.io/creative_bakery/)
 
+
 ## 🎨 Design Reference
 👉 [Figma Design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
+
 
 ## 🛠 Technologies Used
 The project was built using:
@@ -17,6 +18,7 @@ The project was built using:
   - Gulp
   - Stylelint
   - Responsive Web Design (Flexbox / Grid)
+
 
 ## 🚀 Getting Started
 To run the project locally, follow these steps:
@@ -40,6 +42,7 @@ npm start
 # or
 yarn start
 ```
+
 
 ## ✨ Features
   - Fully responsive layout
