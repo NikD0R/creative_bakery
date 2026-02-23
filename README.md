@@ -1,6 +1,6 @@
 # 🍪 Creative Bakery
-Creative Bakery is a responsive landing page website for a bakery, created to showcase products, brand, and contact information. The project was implemented using modern frontend technologies and is focused on clean design and ease of use.
-
+Creative Bakery is a responsive landing page website for a bakery, created to showcase products, brand, and contact information. 
+The project was implemented using modern frontend technologies and is focused on clean design and ease of use.
 <br>
 
 ## 🔗 Live Preview
