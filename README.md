@@ -1,4 +1,45 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://nikd0r.github.io/creative_bakery/)
+# 🍪 Creative Bakery
+Creative Bakery is a responsive landing page website for a bakery, created to showcase products, brand, and contact information. The project was implemented using modern frontend technologies and is focused on clean design and ease of use.
+
+# 🔗 Live Preview
+👉 [View Live Demo](https://nikd0r.github.io/creative_bakery/)
+
+# 🎨 Design Reference
+    [Figma Design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
+
+# 🛠 Technologies Used
+The project was built using:
+  - HTML5
+  - SCSS (Sass)
+  - JavaScript (ES6+)
+  - Gulp
+  - Stylelint
+  - Responsive Web Design (Flexbox / Grid)
+
+# 🚀 Getting Started
+To run the project locally, follow these steps:
+
+1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/project-name.git
+cd project-name
+
+2️⃣ Install dependencies
+```bash
+npm install
+# or
+yarn install
+
+3️⃣ Run the project locally
+```bash
+npm start
+# or
+yarn start
+
+# ✨ Features
+  - Fully responsive layout
+  - Modern SCSS architecture
+  - Clean and structured code
+  - Optimized assets
+  - Cross-browser compatibility
+
