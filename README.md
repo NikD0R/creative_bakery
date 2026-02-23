@@ -62,5 +62,8 @@ yarn start
   - Optimized assets
   - Cross-browser compatibility
 
+
+<br>
+
 ## 📄 License
 This project is created for educational and portfolio purposes.
