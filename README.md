@@ -21,7 +21,6 @@ The project was implemented using modern frontend technologies and is focused on
 The project was built using:
   - HTML5
   - SCSS (Sass)
-  - JavaScript (ES6+)
   - Gulp
   - Stylelint
   - Responsive Web Design (Flexbox / Grid)
